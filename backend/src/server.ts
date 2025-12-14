@@ -1,3 +1,4 @@
+import "./db";   // connects to MongoDB
 import app from "./app";
 
 const PORT = 5000;
